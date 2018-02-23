@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.3.1_9365f957f11eaf1e7bdb82b4b9053e06b04c54ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.3.1_a07bee2fd320963ccfb984ddc4055f37c718cd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.38\ef52c6e23260086cbfd9637f533078980396f371\fastjson-1.2.38.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ef52c6e23260086cbfd9637f533078980396f371">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\fastjson-1.2.38_277d100a09055fe477737008eb9151fa9a5dd4b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.3.1_2c2377a72b00b9cd815990ad8a9a691314d4711c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.3.1_677e17460f3eefd9ed95ccadf509a1654676e262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.3.1_ab1f9dbd62ca61dfd169ce6c7320f198ae1159de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support.constraint-constraint-layout-1.0.2_84cf63de072d2628cf5f9540017ca6bfb62d5ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dffa0220b64d2017db2517325926313c5f186d73">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\Sunflower_75a782270a528d69708ac5b41450063c68511abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.3.1_43cd61ec84afec276bbab69c26718a95a6a9ea22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.3.1_e8461c56dde9771f6a46ef2c614d0aa20949bf76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program_Files\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_d21b805dac054d321d8e622cbce101302caf5698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.3.1_618f4e1b541d8a8b5d7c00ff85633d0f9c378f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.5.1_9e00a0969770c13ac2d1d32e80290ab28f774719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.5.1_d00247ab6004cf92bc85bf0693d75f6255e8fe19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="666bf41b2aa9ec89cbd1f7b44c44e119e772cd83">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\Msc_9a8723387e32ea28b36f6bdafb7c961cd681deb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.3.1_9b131040962ae90d6e5e9127f0b45f5dd5c9d939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\litua\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\gson-2.8.2_f46a8f4ce012a87c6a03fa8b6aa538c72084e3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program_Files\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\litua\AndroidStudioProjects\MyChatText\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_5332dbba4f3dc2501814d30847af1dd188a94bf4.jar" />
+    </item>
+
+</items>

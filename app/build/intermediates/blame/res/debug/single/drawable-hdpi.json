@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_rbtn_normal_background.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_rbtn_normal_background.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_chat_send_normal.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_chat_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_chat_right.9.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_chat_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_chat_send_select.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_chat_send_select.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_other_chat_background.9.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_other_chat_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_lvjian_message_background.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\app_lvjian_message_background.png"
+    },
+    {
+        "merged": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\litua\\AndroidStudioProjects\\MyChatText\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
